@@ -98,4 +98,6 @@ This application is developed and maintained by Rimple. The code, design, and do
 
 ## Contact
 
-For any queries or support, please contact the developer. 
+For any queries or support, please contact:
+- Email: kumaririmple562@gmail.com
+- LinkedIn: [Rimple Kumari](https://www.linkedin.com/in/rimple-kumari-747734256/) 
