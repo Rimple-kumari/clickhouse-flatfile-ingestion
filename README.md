@@ -90,6 +90,12 @@ cd frontend
 npm test
 ```
 
-## License
+## Copyright and Attribution
 
-MIT 
+© 2024 Rimple. All rights reserved.
+
+This application is developed and maintained by Rimple. The code, design, and documentation are proprietary and confidential. Unauthorized copying, modification, distribution, or use of this software, via any medium, is strictly prohibited without explicit permission from the author.
+
+## Contact
+
+For any queries or support, please contact the developer. 
